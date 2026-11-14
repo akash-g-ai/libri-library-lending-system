@@ -8,22 +8,28 @@ borrowing, returns, fines, and reservation workflows.
 
 Built with **React · Node.js · Express · Neon PostgreSQL**
 
-## 🌐 Live Deployment
+---
 
-**Live Application:** [Open Libri Library Lending System](https://libri-frontend.onrender.com/login)
+## 🌐 Live Application
 
-- **Frontend:** https://libri-frontend.onrender.com
-- **Backend API:** https://libri-backend-cr36.onrender.com
-- **GitHub Repository:** https://github.com/akash-g-ai/libri-library-lending-system
+<p align="center">
+  <a href="https://libri-frontend.onrender.com/login">
+    <img src="https://img.shields.io/badge/🚀_Launch_Libri-Live_Application-2563EB?style=for-the-badge" alt="Launch Libri"/>
+  </a>
+</p>
 
-### 🔑 Demo Credentials
+<p align="center">
+  Experience the complete library lending workflow through dedicated Member and Librarian portals.
+</p>
 
-| Role | Email | Password |
-|---|---|---|
-| Librarian | `user1@library.test` | `password123` |
-| Member | `user2@library.test` | `password123` |
+### 🔑 Demo Access
 
-*Hosted on Render with Neon PostgreSQL. Demo credentials are provided for evaluation purposes only.*
+| Portal | Email | Password |
+|:---|:---|:---|
+| 👤 **Member** | `user2@library.test` | `password123` |
+| 🔐 **Librarian** | `user1@library.test` | `password123` |
+
+> **Note:** These demo accounts are provided for evaluation purposes. Use the credentials above to explore the application's features.
 
 ---
 
