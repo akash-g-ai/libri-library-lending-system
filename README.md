@@ -8,6 +8,25 @@ borrowing, returns, fines, and reservation workflows.
 
 Built with **React · Node.js · Express · Neon PostgreSQL**
 
+## 🌐 Live Deployment
+
+**Live Application:** [Open Libri Library Lending System](https://libri-frontend.onrender.com/login)
+
+- **Frontend:** https://libri-frontend.onrender.com
+- **Backend API:** https://libri-backend-cr36.onrender.com
+- **GitHub Repository:** https://github.com/akash-g-ai/libri-library-lending-system
+
+### 🔑 Demo Credentials
+
+| Role | Email | Password |
+|---|---|---|
+| Librarian | `user1@library.test` | `password123` |
+| Member | `user2@library.test` | `password123` |
+
+*Hosted on Render with Neon PostgreSQL. Demo credentials are provided for evaluation purposes only.*
+
+---
+
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=20232A)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=node.js&logoColor=white)
