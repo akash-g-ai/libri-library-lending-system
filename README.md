@@ -546,17 +546,6 @@ library-book-lending/
 -   Enhanced catalogue search and filtering by author or availability.
 -   Pagination for larger catalogues.
 
-## 📦 Submission Notes
-
--   The repository includes the application source, database migrations,
-    tests, and portal screenshots.
--   Member and Librarian portal screenshots are included above.
--   The assignment requests a demonstration recording of up to **5
-    minutes**.
--   The application can be deployed with a backend Web Service and
-    frontend Static Site on Render; deployment configuration must be
-    supplied through the appropriate environment variables.
-
 ------------------------------------------------------------------------
 
 
